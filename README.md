@@ -1,4 +1,5 @@
-Hi, I’m Naveen Alex <br>
+<h1 align="center">Hi, I’m Naveen Alex</h1>
+
 I’m currently studying B.TECH in Computer Science and Engineering at ST. Joseph's College of Engineering and Technology(SJCET), Palai
 <br>
 

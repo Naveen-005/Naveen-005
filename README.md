@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Naveen-005
+Hi, I’m Naveen Alex
+I’m currently studying B.TECH in Computer Science and Engineering at ST. Joseph's College of Engineering and Technology(SJCET), Palai
+<br>
 
-- 🌱 I’m currently studying B.TECH in Computer Science and Engineering at ST. Joseph's College of Engineering and Technology(SJCET), Palai
-      
-      contact me on discord: Naveen Alex#3655
+![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=Naveen-005&show_icons=true&theme=tokyonight&hide_border=true)
